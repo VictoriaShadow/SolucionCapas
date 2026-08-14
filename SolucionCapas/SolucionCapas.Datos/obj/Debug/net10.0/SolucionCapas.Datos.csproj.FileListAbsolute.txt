@@ -1,0 +1,11 @@
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\bin\Debug\net10.0\SolucionCapas.Datos.deps.json
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\bin\Debug\net10.0\SolucionCapas.Datos.dll
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\bin\Debug\net10.0\SolucionCapas.Datos.pdb
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.AssemblyInfoInputs.cache
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.AssemblyInfo.cs
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.csproj.CoreCompileInputs.cache
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.dll
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\obj\Debug\net10.0\refint\SolucionCapas.Datos.dll
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\obj\Debug\net10.0\SolucionCapas.Datos.pdb
+C:\Users\valen\source\repos\SolucionCapas\SolucionCapas.Datos\obj\Debug\net10.0\ref\SolucionCapas.Datos.dll

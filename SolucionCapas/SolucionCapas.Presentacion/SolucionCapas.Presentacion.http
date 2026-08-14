@@ -1,0 +1,6 @@
+@SolucionCapas.Presentacion_HostAddress = http://localhost:5240
+
+GET {{SolucionCapas.Presentacion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
